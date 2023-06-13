@@ -20,3 +20,11 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+bin/
+include/
+*.zip
+lib/
+lib64/python3.11/site-packages/
+share/
+*.cfg
+lib64
