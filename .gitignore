@@ -28,3 +28,4 @@ lib64/python3.11/site-packages/
 share/
 *.cfg
 lib64
+test.*
